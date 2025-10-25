@@ -4,7 +4,7 @@
 
 🌱 I’m currently diving into AI and machine learning, while building my skills as a full-stack developer.
 
-💞️ I’m looking to collaborate on open-source projects related to full-stack development, UI/UX, or beginner-friendly AI tools.
+💞️ I’m looking to collaborate on open-source projects related to webdevelopment development.
 
 📫 How to reach me: Email me at nirjalas437@gmail.com or connect on LinkedIn – Nirjala Shrestha.
 
