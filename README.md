@@ -1,6 +1,6 @@
 👋 Hi, I’m @Shresthanirjala
 
-👀 I’m interested in web development, UI/UX design, and AI/ML—especially projects that create impactful digital experiences.
+👀 I’m interested in web development, and AI/ML—especially projects that create impactful digital experiences.
 
 🌱 I’m currently diving into AI and machine learning, while building my skills as a full-stack developer.
 
