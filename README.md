@@ -14,7 +14,7 @@ I'm a **full-stack developer** passionate about crafting impactful digital exper
 
 ```javascript
 const nirjala = {
-      location: "Sindhupalchok, Nepal 🇳🇵",
+      location: "Kathmandu, Nepal 🇳🇵",
     pronouns: "She/Her",
     currentFocus: ["AI & Machine Learning", "Full-Stack Development"],
     interests: ["Design Systems", "Open Source", "Languages (all kinds!)"],
